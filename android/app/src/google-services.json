@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12582573607",
+    "project_id": "scrollx-e0c34",
+    "storage_bucket": "scrollx-e0c34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12582573607:android:dabfe5806e7cf1b34f6002",
+        "android_client_info": {
+          "package_name": "com.example.scrollx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12582573607-ug1t8v88cssatbikpk6kjtfq7rllmvk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAvq3TWkpkrLFXwJGSHchhP8i2ePEbhx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12582573607-ug1t8v88cssatbikpk6kjtfq7rllmvk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
